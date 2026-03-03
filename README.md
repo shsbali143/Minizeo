@@ -50,9 +50,17 @@ o Price
 o Availability (stock)
 o Description
 
+**see i show to you my output**
+
 <img width="1917" height="963" alt="Screenshot 2026-03-03 165252" src="https://github.com/user-attachments/assets/3cbd72e0-6b0c-44d4-93d3-d19ca22d3bb5" />
 <img width="1919" height="942" alt="Screenshot 2026-03-03 165326" src="https://github.com/user-attachments/assets/19890256-61d1-4d9c-8419-2f76d4871ef4" />
 <img width="1894" height="947" alt="Screenshot 2026-03-03 165347" src="https://github.com/user-attachments/assets/35f2de0c-4237-4b76-baf5-a840fbd30521" />
+
+here is a adding a switch black adn white theme feature 
+
+<img width="1894" height="959" alt="image" src="https://github.com/user-attachments/assets/805761ef-4085-4de6-8cca-658227508263" />
+
+<img width="1897" height="964" alt="Screenshot 2026-03-03 175322" src="https://github.com/user-attachments/assets/65dd2802-1f61-44cf-a192-0f6f8fc4fdfa" />
 
 
 **Task 2 Assignment**
@@ -62,3 +70,10 @@ to Cart)
  When clicked:
  • Product should be added to cart
 • Quantity should increase if already added
+
+<img width="1854" height="837" alt="Screenshot 2026-03-03 175339" src="https://github.com/user-attachments/assets/80704509-9d32-455f-9391-971ef4341c67" />
+<img width="1900" height="1012" alt="Screenshot 2026-03-03 175406" src="https://github.com/user-attachments/assets/7c278213-ed2a-4187-bb37-e9ca12fd779e" />
+<img width="1892" height="944" alt="Screenshot 2026-03-03 175426" src="https://github.com/user-attachments/assets/0e484e7e-e2b3-4dc5-8a68-5888b7810e86" />
+<img width="1892" height="944" alt="Screenshot 2026-03-03 175426" src="https://github.com/user-attachments/assets/01f428f9-c346-44d2-ba5c-636a7237e71b" />
+<img width="1915" height="961" alt="Screenshot 2026-03-03 175449" src="https://github.com/user-attachments/assets/26db1366-7f3f-4a46-b551-3bc3cd6777b8" />
+
