@@ -51,7 +51,8 @@ o Availability (stock)
 o Description
 
 <img width="1917" height="963" alt="Screenshot 2026-03-03 165252" src="https://github.com/user-attachments/assets/3cbd72e0-6b0c-44d4-93d3-d19ca22d3bb5" />
-
+<img width="1919" height="942" alt="Screenshot 2026-03-03 165326" src="https://github.com/user-attachments/assets/19890256-61d1-4d9c-8419-2f76d4871ef4" />
+<img width="1894" height="947" alt="Screenshot 2026-03-03 165347" src="https://github.com/user-attachments/assets/35f2de0c-4237-4b76-baf5-a840fbd30521" />
 
 
 **Task 2 Assignment**
