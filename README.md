@@ -51,10 +51,12 @@ src
 
 installation
 
-1) create a git clone
+open vs code and open terminal paste line and command in below after run it
+
+1) create a git clone https://github.com/shsbali143/Minizeo.git
 2) code .
 3) npm install
-4) npm eun dev site open it
+4) npm eun dev 
 
 
 **project work tasks**
