@@ -19,3 +19,45 @@ If you are developing a production application, we recommend using TypeScript wi
 # Minizeo
 we are develop the shopping site to social media
 >>>>>>> 7dbf1ff740fd47acd2986be7178a1fdf86f3d528
+>>>>>>
+**project work tasks**
+
+**Task 1 Assignment**
+1️⃣ Project Setup
+ Create a new React project.
+ Organize the project using proper folder structure:
+o components/
+o pages/
+o services/ (optional for API calls)
+
+2️⃣ Product Listing Page (Home Page )
+ Fetch all products from the API.
+ Display products in a grid or list.
+ Each product card should show:
+o Product image
+o Product title
+o Price
+ Add a loading state while data is being fetched.
+ Handle API errors gracefully.
+
+3️⃣ Product Details Page (/products/:id)
+ When a user clicks on a product, navigate to a new page.
+ Fetch product details using the product id.
+ Display the following details:
+o Product image
+o Product title
+o Price
+o Availability (stock)
+o Description
+
+<img width="1917" height="963" alt="Screenshot 2026-03-03 165252" src="https://github.com/user-attachments/assets/3cbd72e0-6b0c-44d4-93d3-d19ca22d3bb5" />
+
+
+
+**Task 2 Assignment**
+Add a search input at the top of the product listing page
+ Create a cart feature where users can add products. ( Add
+to Cart)
+ When clicked:
+ • Product should be added to cart
+• Quantity should increase if already added
