@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+  color: #000000;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+body.dark-mode {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.app-container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 20px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
