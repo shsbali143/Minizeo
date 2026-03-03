@@ -19,7 +19,44 @@ If you are developing a production application, we recommend using TypeScript wi
 # Minizeo
 we are develop the shopping site to social media
 >>>>>>> 7dbf1ff740fd47acd2986be7178a1fdf86f3d528
->>>>>>
+
+first working flow and architure 
+public
+    |__>index.html
+src
+  |__>components
+  |         |__>header.jsx
+  |         |__>loader.jsx
+  |         |__>productcard.jsx
+  |
+  |__>context
+  |        |__>cartcontext.jsx
+  |        
+  |__>pages
+  |       |__>cart.jsx
+  |       |__>Home.jsx
+  |       |__>productdetails.jsx
+  |
+  |__>styles
+  |      |__>cart.css
+  |      |__>header.css
+  |      |__>home.css
+  |      |__>loader.css
+  |      |__>productcard.css
+  |      |__>productdetails.css
+  |__>app.css
+  |__>app.jsx
+  |__>index.css
+  |__>main.jsx
+
+installation
+
+1) create a git clone
+2) code .
+3) npm install
+4) npm eun dev site open it
+
+
 **project work tasks**
 
 **Task 1 Assignment**
